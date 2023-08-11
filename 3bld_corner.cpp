@@ -235,10 +235,10 @@ int main()
                             if (E[i])
                                 cout<<" "<<EN[i];
                         cout<<":";
-                        //cout<<cube.format(true)<<endl;
                         for (string m: moves)
                             cout<<" "<<m;
                         cout<<endl;
+                        //cout<<cube.format(true)<<endl;
                     }
                 }
 
