@@ -1,0 +1,3 @@
+- [目隠しルービックキューブOld Pochmann法の変形Yパームの代替手順 - kusano_k’s blog](https://kusano-k.hatenablog.com/entry/2023/08/12/013304)
+- [目隠しルービックキューブ Old Pochmann法の変形Yパームの代替手順 - YouTube](https://www.youtube.com/watch?v=w2IlWPF6pOg)
+- [目隠しルービックキューブ Old Pochmann法の変形Yパームの代替手順 - ニコニコ動画](https://www.nicovideo.jp/watch/sm42610812)
